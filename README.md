@@ -22,16 +22,6 @@ Welcome to **MovieHub**, your go-to platform for discovering the latest movies, 
 
 ---
 
-## 📸 Screenshots
-
-![Home Page](https://via.placeholder.com/800x400)
-*Screenshot of homepage with trending movies*
-
-![Movie Details](https://via.placeholder.com/800x400)
-*Screenshot of movie details page*
-
----
-
 ## 🏗️ Installation & Setup
 
 Follow these steps to set up the project locally:
@@ -60,28 +50,6 @@ Follow these steps to set up the project locally:
    ```sh
    npm start
    ```
-
----
-
-## 🎥 Demo
-
-Check out the live demo: [MovieHub Live](https://your-live-demo-link.com)
-
----
-
-## 🤝 Contributing
-
-Contributions are welcome! If you'd like to improve the project, please:
-1. Fork the repository.
-2. Create a feature branch.
-3. Commit your changes.
-4. Open a Pull Request.
-
----
-
-## 📝 License
-
-This project is licensed under the **MIT License**.
 
 ---
 
