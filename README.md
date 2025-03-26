@@ -56,7 +56,7 @@ Follow these steps to set up the project locally:
 🌟 **Enjoy using MovieHub? Give this project a star!** ⭐
 
 
-
+#click here to view:https://moviehub001.netlify.app/
 
 
 
